@@ -1,6 +1,6 @@
 # India — Engineering Internships, Updated Daily
 
-**250 live internships** from **141 companies**, collected automatically
+**252 live internships** from **142 companies**, collected automatically
 and checked every 30 minutes. Every listing links back to the original posting.
 
 > ⭐ **Star this repo** to keep it in your GitHub feed — new roles land at the top of the table.
@@ -18,7 +18,7 @@ Most internship lists are either stale or unfiltered. This one is neither:
 - **Engineering only.** Software, data, hardware, security. No sales roles dressed
   up as tech.
 
-**Only 21 of these 250 postings say what they pay.** That is not an omission here —
+**Only 21 of these 252 postings say what they pay.** That is not an omission here —
 it is what the employers wrote. Where a stipend was stated, it is on the row.
 
 ## Live roles
@@ -30,6 +30,8 @@ it is what the employers wrote. Where a stipend was stated, it is on the row.
 | [Emerson](https://interndoor.com/companies/emerson?utm_source=github&utm_medium=readme) | [Intern-Power Greenfield](https://interndoor.com/jobs/emerson-intern-power-greenfield-4461064759?utm_source=github&utm_medium=readme) | Noida · Hybrid | 31 Aug 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/26009989/?utm_medium=jobboard&utm_source=linkedin) |
 | [Bugsmirror](https://interndoor.com/companies/bugsmirror?utm_source=github&utm_medium=readme) | [Flutter Developer Intern](https://interndoor.com/jobs/bugsmirror-flutter-developer-intern-4458895309?utm_source=github&utm_medium=readme) — **₹8,000 / total** | Indore · On-site | 31 Aug 2026 | [Apply](https://www.linkedin.com/jobs/view/4458895309/) |
 | [AST SpaceMobile](https://interndoor.com/companies/ast-spacemobile?utm_source=github&utm_medium=readme) | [Flight Software Engineering Intern](https://interndoor.com/jobs/ast-spacemobile-flight-software-engineering-intern-4461060734?utm_source=github&utm_medium=readme) | Hyderabad · On-site | 31 Aug 2026 | [Apply](https://grnh.se/4yq50gn65us?gh_src=097d7e1b4us&gh_src=a2d879a93us&gh_src=d2f749903us&gh_src=8efdd41d3us&gh_src=5ac1e5d54us&t=3253f722teu) |
+| [Micron Technology](https://interndoor.com/companies/micron-technology?utm_source=github&utm_medium=readme) | [Intern - FDV/PCV, NAND Product Engineering](https://interndoor.com/jobs/micron-technology-intern-fdv-pcv-nand-product-engineering-ats-workday-micron-wd1-external-jr109268?utm_source=github&utm_medium=readme) | Hyderabad - Phoenix Aquila | 31 Aug 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/Intern---FDV-PCV--NAND-Product-Engineering_JR109268) |
+| [Nvidia](https://interndoor.com/companies/nvidia?utm_source=github&utm_medium=readme) | [PhD Intern, AI ML in Wireless L1/L2 - Fall 2026](https://interndoor.com/jobs/nvidia-phd-intern-ai-ml-in-wireless-l1-l2-fall-2026-ats-workday-nvidia-wd5-nvidiaexternalcareersite-jr2024423?utm_source=github&utm_medium=readme) | India | 31 Aug 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) |
 | [Joveo](https://interndoor.com/companies/joveo?utm_source=github&utm_medium=readme) | [Software Engineer Intern](https://interndoor.com/jobs/joveo-software-engineer-intern-4458863278?utm_source=github&utm_medium=readme) | Bengaluru · Hybrid | 31 Aug 2026 | [Apply](https://www.linkedin.com/jobs/view/4458863278/) |
 | [Joveo](https://interndoor.com/companies/joveo?utm_source=github&utm_medium=readme) | [Frontend Engineering Intern](https://interndoor.com/jobs/joveo-frontend-engineering-intern-4458874075?utm_source=github&utm_medium=readme) | Bengaluru · Remote | 30 Aug 2026 | [Apply](https://www.linkedin.com/jobs/view/4458874075/) |
 | [Joveo](https://interndoor.com/companies/joveo?utm_source=github&utm_medium=readme) | [Software Engineering Intern (Full Stack)](https://interndoor.com/jobs/joveo-software-engineering-intern-full-stack-4458869130?utm_source=github&utm_medium=readme) | Bengaluru · Remote | 30 Aug 2026 | [Apply](https://www.linkedin.com/jobs/view/4458869130/) |
