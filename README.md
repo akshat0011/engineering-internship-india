@@ -1,6 +1,6 @@
 # India — Engineering Internships, Updated Daily
 
-**281 live internships** from **150 companies**, collected automatically
+**273 live internships** from **146 companies**, collected automatically
 and checked every 30 minutes. Every listing links back to the original posting.
 
 > ⭐ **Star this repo** to keep it in your GitHub feed — new roles land at the top of the table.
@@ -18,7 +18,7 @@ Most internship lists are either stale or unfiltered. This one is neither:
 - **Engineering only.** Software, data, hardware, security. No sales roles dressed
   up as tech.
 
-**Only 17 of these 281 postings say what they pay.** That is not an omission here —
+**Only 16 of these 273 postings say what they pay.** That is not an omission here —
 it is what the employers wrote. Where a stipend was stated, it is on the row.
 
 ## Live roles
@@ -294,14 +294,6 @@ it is what the employers wrote. Where a stipend was stated, it is on the row.
 | [S&P Global](https://interndoor.com/companies/s-and-p-global?utm_source=github&utm_medium=readme) | [Apprentice, Software Development/Engineering](https://interndoor.com/jobs/s-and-p-global-apprentice-software-development-engineering-4453519959?utm_source=github&utm_medium=readme) | Hyderabad · On-site | 14 Aug 2026 | [Apply](https://www.linkedin.com/jobs/view/4453519959/) |
 | [Haptik](https://interndoor.com/companies/haptik?utm_source=github&utm_medium=readme) | [Partner Support Intern](https://interndoor.com/jobs/haptik-partner-support-intern-4453522788?utm_source=github&utm_medium=readme) | Goregaon · On-site | 14 Aug 2026 | [Apply](https://www.linkedin.com/jobs/view/4453522788/) |
 | [HighLevel](https://interndoor.com/companies/highlevel?utm_source=github&utm_medium=readme) | [Learning & Development Apprentice](https://interndoor.com/jobs/highlevel-learning-and-development-apprentice-4450829522?utm_source=github&utm_medium=readme) — **₹45,000 / month** | India · Remote | 14 Aug 2026 | [Apply](https://jobs.lever.co/gohighlevel/e3bd5496-6f0b-438f-b252-ade14d15947b/apply?source=LinkedIn) |
-| [Emeritus](https://interndoor.com/companies/emeritus?utm_source=github&utm_medium=readme) | [DevOps Intern](https://interndoor.com/jobs/emeritus-devops-intern-4454063282?utm_source=github&utm_medium=readme) | Mumbai Metropolitan Region · Remote | 13 Aug 2026 | [Apply](https://www.linkedin.com/jobs/view/4454063282/) |
-| [HARMAN India](https://interndoor.com/companies/harman-india?utm_source=github&utm_medium=readme) | [Intern - C++ Linux](https://interndoor.com/jobs/harman-india-intern-c-linux-4450809558?utm_source=github&utm_medium=readme) | Bengaluru | 13 Aug 2026 | [Apply](https://jobsearch.harman.com/careers/searchjobs/R-54432-2026?source=LinkedIn) |
-| [Airmeet](https://interndoor.com/companies/airmeet?utm_source=github&utm_medium=readme) | [Outreach Campaign Intern](https://interndoor.com/jobs/airmeet-outreach-campaign-intern-4453209152?utm_source=github&utm_medium=readme) | Bengaluru · Hybrid | 13 Aug 2026 | [Apply](https://www.linkedin.com/jobs/view/4453209152/) |
-| [pharma&](https://interndoor.com/companies/pharma-and?utm_source=github&utm_medium=readme) | [PowerApps Developer Intern](https://interndoor.com/jobs/pharma-and-powerapps-developer-intern-4450483451?utm_source=github&utm_medium=readme) — **₹15,000 / month** | Hyderabad · On-site | 13 Aug 2026 | [Apply](https://www.linkedin.com/jobs/view/4450483451/) |
-| [HARMAN India](https://interndoor.com/companies/harman-india?utm_source=github&utm_medium=readme) | [Certification Intern](https://interndoor.com/jobs/harman-india-certification-intern-4450479358?utm_source=github&utm_medium=readme) | Bengaluru · Hybrid | 13 Aug 2026 | [Apply](https://jobsearch.harman.com/careers/searchjobs/R-53377-2026?source=LinkedIn) |
-| [Calix India](https://interndoor.com/companies/calix-india?utm_source=github&utm_medium=readme) | [Graduate Trainee](https://interndoor.com/jobs/calix-india-graduate-trainee-4453687525?utm_source=github&utm_medium=readme) | Bengaluru · Hybrid | 13 Aug 2026 | [Apply](https://calix.wd1.myworkdayjobs.com/ExternalInternational/job/Bangalore/Graduate-Trainee_R-11825?source=LinkedIn) |
-| [Larsen & Toubro](https://interndoor.com/companies/larsen-and-toubro?utm_source=github&utm_medium=readme) | [GenAI Trainee](https://interndoor.com/jobs/larsen-and-toubro-genai-trainee-4453683160?utm_source=github&utm_medium=readme) | Kurla · On-site | 13 Aug 2026 | [Apply](https://larsentoubrocareers.peoplestrong.com/portal/job/detail/LNT_GT_1820286?Source=Linkedin) |
-| [FynTune Solution Private Limited](https://interndoor.com/companies/fyntune-solution-private-limited?utm_source=github&utm_medium=readme) | [Junior PHP Developer Internship in Thane, Mumbai, Navi Mumbai](https://interndoor.com/jobs/fyntune-solution-private-limited-junior-php-developer-internship-in-thane-mumbai-navi-mumbai-4453612335?utm_source=github&utm_medium=readme) | Navi Mumbai · On-site | 13 Aug 2026 | [Apply](https://www.linkedin.com/jobs/view/4453612335/) |
 | [Decentro](https://interndoor.com/companies/decentro?utm_source=github&utm_medium=readme) | [Software Developer Intern](https://interndoor.com/jobs/decentro-software-developer-intern-ats-keka-decentro-26116?utm_source=github&utm_medium=readme) — **$2,020** | BANGALORE | 10 Aug 2026 | [Apply](https://decentro.keka.com/careers/jobdetails/26116) |
 | [CloudSEK](https://interndoor.com/companies/cloudsek?utm_source=github&utm_medium=readme) | [Security Consultant Intern](https://interndoor.com/jobs/cloudsek-security-consultant-intern-ats-greenhouse-cloudsek-6115382004?utm_source=github&utm_medium=readme) | Bengaluru | 14 Jul 2026 | [Apply](https://job-boards.greenhouse.io/cloudsek/jobs/6115382004) |
 | [Hevo Data](https://interndoor.com/companies/hevo-data?utm_source=github&utm_medium=readme) | [UX Design Intern](https://interndoor.com/jobs/hevo-data-ux-design-intern-ats-lever-hevodata-433ffdef-3125-48ed-a131-52c697c321ee?utm_source=github&utm_medium=readme) | Bangalore · On-site | 8 Jul 2026 | [Apply](https://jobs.lever.co/hevodata/433ffdef-3125-48ed-a131-52c697c321ee) |
