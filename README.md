@@ -1,6 +1,6 @@
 # India — Engineering Internships, Updated Daily
 
-**271 live internships** from **145 companies**, collected automatically
+**273 live internships** from **147 companies**, collected automatically
 and checked every 30 minutes. Every listing links back to the original posting.
 
 > ⭐ **Star this repo** to keep it in your GitHub feed — new roles land at the top of the table.
@@ -18,13 +18,17 @@ Most internship lists are either stale or unfiltered. This one is neither:
 - **Engineering only.** Software, data, hardware, security. No sales roles dressed
   up as tech.
 
-**Only 14 of these 271 postings say what they pay.** That is not an omission here —
+**Only 14 of these 273 postings say what they pay.** That is not an omission here —
 it is what the employers wrote. Where a stipend was stated, it is on the row.
 
 ## Live roles
 
 | Company | Role | Location | Posted | |
 | --- | --- | --- | --- | --- |
+| [Axalta](https://interndoor.com/companies/axalta?utm_source=github&utm_medium=readme) | [Technology Trainee](https://interndoor.com/jobs/axalta-technology-trainee-4336951115?utm_source=github&utm_medium=readme) | Savli · On-site | 14 Sept 2026 | [Apply](https://axalta.wd1.myworkdayjobs.com/en/Axalta/job/Savli/Technology-Trainee_2024-9485?source=LinkedIn) |
+| [Micron Technology](https://interndoor.com/companies/micron-technology?utm_source=github&utm_medium=readme) | [Automation Intern](https://interndoor.com/jobs/micron-technology-automation-intern-4465773236?utm_source=github&utm_medium=readme) | Gujarat · On-site | 14 Sept 2026 | [Apply](https://careers.micron.com/careers/job/44273937?utm_source=linkedin&domain=micron.com&src=LinkedInJobs) |
+| [Microsoft](https://interndoor.com/companies/microsoft?utm_source=github&utm_medium=readme) | [Applied Sciences INTERN](https://interndoor.com/jobs/microsoft-applied-sciences-intern-ats-microsoft-india-united-states-united-kingdom-1970393556997800?utm_source=github&utm_medium=readme) | Multiple Locations · On-site | 14 Sept 2026 | [Apply](https://jobs.careers.microsoft.com/global/en/job/1970393556997800) |
+| [Baxter](https://interndoor.com/companies/baxter?utm_source=github&utm_medium=readme) | [Intern](https://interndoor.com/jobs/baxter-intern-ats-workday-baxter-wd1-baxter-jr-208532?utm_source=github&utm_medium=readme) | Bangalore | 13 Sept 2026 | [Apply](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Intern_JR-208532) |
 | [Kaleris](https://interndoor.com/companies/kaleris?utm_source=github&utm_medium=readme) | [Associate Quality Assurance Engineer - Intern](https://interndoor.com/jobs/kaleris-associate-quality-assurance-engineer-intern-ats-workday-kaleris-wd501-kaleris-careers-r-100637?utm_source=github&utm_medium=readme) | Chennai | 12 Sept 2026 | [Apply](https://kaleris.wd501.myworkdayjobs.com/en-US/kaleris_careers/job/Chennai/Associate-Quality-Assurance-Engineer---Intern_R-100637) |
 | [Kaleris](https://interndoor.com/companies/kaleris?utm_source=github&utm_medium=readme) | [Associate Software Engineer - Intern](https://interndoor.com/jobs/kaleris-associate-software-engineer-intern-ats-workday-kaleris-wd501-kaleris-careers-r-100644?utm_source=github&utm_medium=readme) | Chennai | 12 Sept 2026 | [Apply](https://kaleris.wd501.myworkdayjobs.com/en-US/kaleris_careers/job/Chennai/Associate-Software-Engineer---Intern_R-100644) |
 | [Kaleris](https://interndoor.com/companies/kaleris?utm_source=github&utm_medium=readme) | [Associate Cloud Ops Engineer - Intern](https://interndoor.com/jobs/kaleris-associate-cloud-ops-engineer-intern-ats-workday-kaleris-wd501-kaleris-careers-r-100647?utm_source=github&utm_medium=readme) | Chennai | 12 Sept 2026 | [Apply](https://kaleris.wd501.myworkdayjobs.com/en-US/kaleris_careers/job/Chennai/Associate-Cloud-Ops-Engineer---Intern_R-100647) |
@@ -289,8 +293,6 @@ it is what the employers wrote. Where a stipend was stated, it is on the row.
 | [Signzy](https://interndoor.com/companies/signzy?utm_source=github&utm_medium=readme) | [SRE Intern](https://interndoor.com/jobs/signzy-sre-intern-ats-keka-signzy-133832?utm_source=github&utm_medium=readme) | Bengaluru | 17 Aug 2026 | [Apply](https://signzy.keka.com/careers/jobdetails/133832) |
 | [Bristlecone](https://interndoor.com/companies/bristlecone?utm_source=github&utm_medium=readme) | [SAP ABAP Intern for M&M](https://interndoor.com/jobs/bristlecone-sap-abap-intern-for-m-and-m-4089384294?utm_source=github&utm_medium=readme) | Mumbai · On-site | 17 Aug 2026 | [Apply](https://www.linkedin.com/jobs/view/4089384294/) |
 | [eClerx](https://interndoor.com/companies/eclerx?utm_source=github&utm_medium=readme) | [intern](https://interndoor.com/jobs/eclerx-intern-4436939571?utm_source=github&utm_medium=readme) | Mumbai · On-site | 16 Aug 2026 | [Apply](https://www.linkedin.com/jobs/view/4436939571/) |
-| [Qualcomm](https://interndoor.com/companies/qualcomm?utm_source=github&utm_medium=readme) | [1 year Internship_SW_CDC](https://interndoor.com/jobs/qualcomm-1-year-internship-sw-cdc-4376091071?utm_source=github&utm_medium=readme) | Chennai · On-site | 15 Aug 2026 | [Apply](https://www.linkedin.com/jobs/view/4376091071/) |
-| [AtkinsRéalis](https://interndoor.com/companies/atkinsr-alis?utm_source=github&utm_medium=readme) | [Apprentice](https://interndoor.com/jobs/atkinsr-alis-apprentice-4454565745?utm_source=github&utm_medium=readme) | Noida · Hybrid | 15 Aug 2026 | [Apply](https://www.linkedin.com/jobs/view/4454565745/) |
 | [Decentro](https://interndoor.com/companies/decentro?utm_source=github&utm_medium=readme) | [Software Developer Intern](https://interndoor.com/jobs/decentro-software-developer-intern-ats-keka-decentro-26116?utm_source=github&utm_medium=readme) — **$2,020** | BANGALORE | 10 Aug 2026 | [Apply](https://decentro.keka.com/careers/jobdetails/26116) |
 | [Stripe](https://interndoor.com/companies/stripe?utm_source=github&utm_medium=readme) | [Software Engineer, Intern](https://interndoor.com/jobs/stripe-software-engineer-intern-ats-greenhouse-stripe-8031833?utm_source=github&utm_medium=readme) | Bengaluru | 22 Jul 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) |
 | [CloudSEK](https://interndoor.com/companies/cloudsek?utm_source=github&utm_medium=readme) | [Security Consultant Intern](https://interndoor.com/jobs/cloudsek-security-consultant-intern-ats-greenhouse-cloudsek-6115382004?utm_source=github&utm_medium=readme) | Bengaluru | 14 Jul 2026 | [Apply](https://job-boards.greenhouse.io/cloudsek/jobs/6115382004) |
